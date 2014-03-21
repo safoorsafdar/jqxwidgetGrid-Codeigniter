@@ -1,4 +1,3 @@
-
 --
 -- Database: `git_jqxci_part1`
 --
@@ -33,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `customers` (
   `Active` int(11) NOT NULL DEFAULT '0',
   PRIMARY KEY (`CustomerID`),
   KEY `EmailAddress` (`EmailAddress`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1022655 ;
+)  ;
 
 --
 -- Dumping data for table `customers`

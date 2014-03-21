@@ -1,5 +1,5 @@
-                                   jqxwidgetGrid-Codeigniter
-                                   =========================
+jqxwidgetGrid-Codeigniter
+=========================
 Versions:
 --------------------
 Codiegniter: 2.1.3

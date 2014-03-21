@@ -62,7 +62,7 @@ index.php                         //codeingniter main index file
 Create the data with provided or your own data or just upload the database file db/git_jqxci_part1.sql
 
 #### Javascript Url Setting 
-Varibale initialization for theme/js/views/part1/index.js
+Varibale initialization for `theme/js/views/part1/index.js`
 
 
 ```

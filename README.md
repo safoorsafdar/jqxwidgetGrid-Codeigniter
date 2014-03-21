@@ -3,10 +3,10 @@ PHP-Codeigniter With JqWidgets code sample
 Jq Widgets Grid example code with codeignter to enhance larg scale data.
 This example just show the basic listing feature for jqWidgets Grid, In future i hope to upload further enhance features with jqxGrid
 In this example i just add the these features:
- - Filter Data
- - Sort Data
- - Pagintaion
- - status bar rendring.
+ - Filtering
+ - Sorting
+ - Paging
+ - Statusbar rendring.
 
 
 
